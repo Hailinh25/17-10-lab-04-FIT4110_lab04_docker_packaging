@@ -325,3 +325,19 @@ API đó có thể được đóng gói, chạy lại và kiểm thử trong con
 ```text
 Docker container đơn lẻ → Docker Compose nhiều service → Plug-a-thon.
 ```
+
+---
+
+## Evidence
+
+### Docker Images
+![Docker Images](evidence/docker-images.png)
+
+### Running Container
+![Docker PS](evidence/docker-ps.png)
+
+### Health Check
+![Health Check](evidence/health-check.png)
+
+### Newman Pass
+![Newman Pass](evidence/newman-pass.png)
